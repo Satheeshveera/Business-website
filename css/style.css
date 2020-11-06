@@ -225,3 +225,44 @@ margin:30px auto;
 width:200px;
 margin: 50px auto;
 }
+/* ======================================== */
+
+.container-last{
+   background-color: #0E4A7E;
+   width: 100%;
+}
+.sec-last{
+ 
+}
+ 
+.fcol-1{
+    color: white;
+    padding: 50px;
+
+}
+.fcol-1 h1{
+    color: #ccb892;   
+    font-size: 30px;
+    font-weight: bold;
+}
+.fcol-3 {
+    color: white;
+    padding: 80px;
+}
+.fcol-1 i{
+   font-size: 30px;
+background-color: #ccb892;
+padding: 10px;
+border-radius: 50%;
+}
+
+/* footer ===================== */
+footer{
+    background-color: lightgray;
+    
+}
+footer p{
+padding: 10px;
+text-align: center;
+margin-top: 10px;
+}
